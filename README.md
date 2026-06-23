@@ -1,20 +1,19 @@
-# Sqsh-Coding-Language-shell-based-
-Releasing the new Sqsh Coding Language  (Squiscript Shell) Read more inside
+# Sqsh-Coding-Language-shell-based
 
-**you might hear C++, c#, or python, but that's Boring, so I made Sqsh an open source coding language
-unfortunantly it's still in alpha and only has 2 commands, but Don't worry cause more updates are coming**
-----------------------------------------------------------------------------------------------------------
-#Sorry It's Linux Only#
-How To launch on Linux
-1. Open your terminal
-2. Download the sqsh file
-3. switch to the cd path that is the file location
-4. type "bash sqshlang.sh"
-5. there you go you have it running
+Releasing the new Sqsh Coding Language (Squiscript Shell). Read more inside!
 
-**thank you for using my coding language**
-Have a great day 
+You might hear about C++, C#, or Python, but that's boring! So I made **Sqsh**, an open-source coding language. Unfortunately, it is still in alpha and only has 2 commands, but don't worry because more updates are coming soon!
 
+## 🐧 Linux Only
+Here is how to launch Sqsh on Linux:
 
-Trademarked By N20codes
-2026 Sqsh™
+1. Open your terminal.
+2. Download the `sqshlang.sh` file.
+3. Switch to the file location directory using `cd`.
+4. Type `bash sqshlang.sh`.
+5. There you go! You have it running.
+
+Thank you for using my coding language! Have a great day.
+
+*Trademarked by N20codes 2026 Sqsh™*
+
